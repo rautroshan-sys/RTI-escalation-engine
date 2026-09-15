@@ -1,0 +1,33 @@
+text,label
+"The road in front of my house is full of potholes and needs immediate repair.",PWD
+"माझ्या घरासमोरील रस्ता खराब झाला आहे आणि त्यात खड्डे आहेत.",PWD
+"सड़क पर बड़े गड्ढे हैं, कृपया मरम्मत करें।",PWD
+"Please provide the status of my new ration card application submitted last month.",RATION
+"माझे नवीन रेशन कार्ड अद्याप आलेले नाही, कृपया स्थिती सांगा.",RATION
+"राशन कार्ड के लिए आवेदन किया था, अभी तक नहीं मिला।",RATION
+"Water supply has been completely contaminated for the last three days.",WATER
+"गेले तीन दिवस पिण्याचे पाणी गढूळ येत आहे.",WATER
+"हमारे इलाके में पीने का पानी नहीं आ रहा है।",WATER
+"Requesting details of funds allocated for the new municipal primary school.",EDU
+"नवीन प्राथमिक शाळेसाठी किती निधी मंजूर झाला आहे याची माहिती द्या.",EDU
+"नगर निगम स्कूल के लिए आवंटित फंड की जानकारी चाहिए।",EDU
+"There is a severe shortage of malaria medicines in the district hospital.",HEALTH
+"जिल्हा रुग्णालयात औषधांचा तुटवडा आहे, कृपया माहिती द्या.",HEALTH
+"सरकारी अस्पताल में डॉक्टरों की उपस्थिति का रिकॉर्ड दें।",HEALTH
+"I want to know the status of my FIR filed regarding the theft.",POLICE
+"माझ्या चोरीच्या तक्रारीवर एफआयआरची स्थिती काय आहे?",POLICE
+"थाने में दर्ज मेरी एफआईआर पर क्या कार्रवाई हुई?",POLICE
+"When will the new bus route start in our sector?",TRANSPORT
+"आमच्या भागात नवीन बस सेवा कधी सुरू होणार आहे?",TRANSPORT
+"नई बस सेवा के रूट की जानकारी चाहिए।",TRANSPORT
+"Frequent power cuts are happening in our society without prior notice.",ELEC
+"आमच्या परिसरात वारंवार वीज कपात होत आहे.",ELEC
+"बिना सूचना के बिजली काटी जा रही है, कारण बताएं।",ELEC
+"Garbage has not been collected from our street for a week.",MUNI
+"गेला आठवडाभर आमच्या गल्लीतील कचरा उचलला गेला नाही.",MUNI
+"सड़क पर कचरा पड़ा है, सफाई कर्मचारी नहीं आ रहे हैं।",MUNI
+"Requesting property tax assessment details for my commercial shop.",REV
+"माझ्या दुकानाच्या मालमत्ता कराची पावती आणि माहिती हवी आहे.",REV
+"मेरी जमीन के म्यूटेशन और टैक्स का विवरण प्रदान करें।",REV
+"Road is dug up by the water department and left broken.",MUNI
+"पाण्याच्या पाईपलाईनसाठी रस्ता खणला आणि तसाच सोडला.",MUNI

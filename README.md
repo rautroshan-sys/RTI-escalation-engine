@@ -1,7 +1,5 @@
 # ⚖️ RTI Escalation Engine
 
-**A Smart India Hackathon Prototype**
-
 An AI-powered triage and routing system designed to automate the classification of Right to Information (RTI) applications. This system uses semantic vector mapping to instantly route queries to the correct government department and automatically flags ambiguous or complex requests for manual review, ensuring strict compliance with Section 6(3) of the RTI Act.
 
 ## ✨ Key Features
